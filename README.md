@@ -62,114 +62,114 @@ The table below ranks prominent commercial video editing and AI-powered post-pro
 
 ## 🛠️ Open-Source GitHub Projects
 
-The open-source video editing and post-production ecosystem is sorted below strictly by GitHub stargazer popularity. Every repository features an official live social star badge linking directly to its stargazers:
+The open-source video editing and post-production ecosystem is sorted below strictly by GitHub stargazer popularity. Every repository features an official live social Stars_Badge linking directly to its stargazers:
 
-1. **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** [![GitHub stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers)  
+1. **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** [![GitHub_Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers)  
    The gold standard command-line multimedia downloader and pre-production ingest tool, extracting audio, video, subtitles, chapters, and metadata for editing pipelines across thousands of web platforms.
 
-2. **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** [![GitHub stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=social&color=white)](https://github.com/harry0703/MoneyPrinterTurbo/stargazers)  
+2. **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** [![GitHub_Stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=social&color=white)](https://github.com/harry0703/MoneyPrinterTurbo/stargazers)  
    Complete automated short-form video generation engine that transforms a prompt or topic into HD vertical videos complete with scriptwriting, B-roll synthesis, voiceover narration, background music, and styled subtitles.
 
-3. **[OpenCut](https://github.com/OpenCut-app/OpenCut)** [![GitHub stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social&color=white)](https://github.com/OpenCut-app/OpenCut/stargazers)  
+3. **[OpenCut](https://github.com/OpenCut-app/OpenCut)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social&color=white)](https://github.com/OpenCut-app/OpenCut/stargazers)  
    Modern, open-source privacy-focused web and desktop alternative to CapCut, featuring full multi-track timeline editing, client-side rendering, and customizable asset libraries without telemetry.
 
-4. **[OBS Studio](https://github.com/obsproject/obs-studio)** [![GitHub stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers)  
+4. **[OBS Studio](https://github.com/obsproject/obs-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers)  
    The world's leading open-source software for live video recording, multi-track audio routing, virtual camera outputs, scene compositing, and professional post-production master capture.
 
-5. **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
+5. **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
    Premier framework for creating video programmatically using React, TypeScript, and CSS, enabling dynamic video rendering pipelines, animated subtitles, customized motion graphics, and automated video SaaS architectures.
 
-6. **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
+6. **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
    The universal multimedia backbone powering almost every modern video editor, transcoder, subtitle renderer, and post-production pipeline on Earth.
 
-7. **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
+7. **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub_Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
    The definitive Swiss army knife for lossless video and audio editing—ultra-fast GUI for cutting, trimming, merging, and extracting streams without re-encoding quality degradation.
 
-8. **[Manim](https://github.com/ManimCommunity/manim)** [![GitHub stars](https://img.shields.io/github/stars/ManimCommunity/manim?style=social&color=white)](https://github.com/ManimCommunity/manim/stargazers)  
+8. **[Manim](https://github.com/ManimCommunity/manim)** [![GitHub_Stars](https://img.shields.io/github/stars/ManimCommunity/manim?style=social&color=white)](https://github.com/ManimCommunity/manim/stargazers)  
    Community-maintained Python engine for programmatic mathematical animations and dynamic technical visual explainer videos, originally developed by 3Blue1Brown.
 
-9. **[Uppy](https://github.com/transloadit/uppy)** [![GitHub stars](https://img.shields.io/github/stars/transloadit/uppy?style=social&color=white)](https://github.com/transloadit/uppy/stargazers)  
+9. **[Uppy](https://github.com/transloadit/uppy)** [![GitHub_Stars](https://img.shields.io/github/stars/transloadit/uppy?style=social&color=white)](https://github.com/transloadit/uppy/stargazers)  
    Modular open-source client-side file and video uploader for web browsers, offering seamless resumable video uploads (Tus protocol), webcam recording, and cloud post-production ingest.
 
-10. **[Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)** [![GitHub stars](https://img.shields.io/github/stars/Anjok07/ultimatevocalremovergui?style=social&color=white)](https://github.com/Anjok07/ultimatevocalremovergui/stargazers)  
+10. **[Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui)** [![GitHub_Stars](https://img.shields.io/github/stars/Anjok07/ultimatevocalremovergui?style=social&color=white)](https://github.com/Anjok07/ultimatevocalremovergui/stargazers)  
     State-of-the-art deep neural network GUI for audio post-production: isolates vocal stems, background noise, instrumental tracks, and dialog for pristine audio clarity.
 
-11. **[WhisperX](https://github.com/m-bain/whisperX)** [![GitHub stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social&color=white)](https://github.com/m-bain/whisperX/stargazers)  
+11. **[WhisperX](https://github.com/m-bain/whisperX)** [![GitHub_Stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social&color=white)](https://github.com/m-bain/whisperX/stargazers)  
     High-performance speech-to-text pipeline offering phoneme-level forced alignment, word-level timestamps, and speaker diarization for frame-accurate video cut points and dynamic captions.
 
-12. **[Cap](https://github.com/CapSoftware/Cap)** [![GitHub stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=social&color=white)](https://github.com/CapSoftware/Cap/stargazers)  
+12. **[Cap](https://github.com/CapSoftware/Cap)** [![GitHub_Stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=social&color=white)](https://github.com/CapSoftware/Cap/stargazers)  
     Open-source Loom and Screen Studio alternative for instant screen recording, automatic cursor smoothing, zoom animations, dynamic backgrounds, and quick editing.
 
-13. **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers)  
+13. **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub_Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers)  
     Indispensable open-source multithreaded video transcoder for converting video masters into web-ready formats (AV1, H.264, H.265) with hardware acceleration.
 
-14. **[Buzz](https://github.com/chidiwilliams/buzz)** [![GitHub stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social&color=white)](https://github.com/chidiwilliams/buzz/stargazers)  
+14. **[Buzz](https://github.com/chidiwilliams/buzz)** [![GitHub_Stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=social&color=white)](https://github.com/chidiwilliams/buzz/stargazers)  
     Offline speech recognition and subtitle generator running Whisper locally on desktop to transcribe, translate, and export SRT/VTT caption files without cloud servers.
 
-15. **[Blender Video Sequence Editor (VSE)](https://github.com/blender/blender)** [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+15. **[Blender Video Sequence Editor (VSE)](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
     Complete built-in non-linear video editing timeline and compositor inside Blender, supporting multi-track audio/video cutting, color grading, and 3D visual effects integration.
 
-16. **[Motion Canvas](https://github.com/motion-canvas/motion-canvas)** [![GitHub stars](https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social&color=white)](https://github.com/motion-canvas/motion-canvas/stargazers)  
+16. **[Motion Canvas](https://github.com/motion-canvas/motion-canvas)** [![GitHub_Stars](https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social&color=white)](https://github.com/motion-canvas/motion-canvas/stargazers)  
     TypeScript-based programmatic motion graphics framework with an interactive browser preview editor designed for crafting precise visual explanations and synchronized animations.
 
-17. **[VideoLingo / Open-Dubbing](https://github.com/Huanshere/VideoLingo)** [![GitHub stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social&color=white)](https://github.com/Huanshere/VideoLingo/stargazers)  
+17. **[VideoLingo / Open-Dubbing](https://github.com/Huanshere/VideoLingo)** [![GitHub_Stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social&color=white)](https://github.com/Huanshere/VideoLingo/stargazers)  
     Comprehensive automated video localization suite providing Netflix-standard subtitle segmentation, multi-agent LLM translation, WhisperX word alignment, and personalized voice cloning dubbing.
 
-18. **[Shotcut](https://github.com/mltframework/shotcut)** [![GitHub stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)  
+18. **[Shotcut](https://github.com/mltframework/shotcut)** [![GitHub_Stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)  
     Mature cross-platform open-source video editor built on the MLT Multimedia Framework, supporting 4K multi-format timelines, three-point editing, color grading, and audio scopes.
 
-19. **[MoviePy](https://github.com/Zulko/moviepy)** [![GitHub stars](https://img.shields.io/github/stars/Zulko/moviepy?style=social&color=white)](https://github.com/Zulko/moviepy/stargazers)  
+19. **[MoviePy](https://github.com/Zulko/moviepy)** [![GitHub_Stars](https://img.shields.io/github/stars/Zulko/moviepy?style=social&color=white)](https://github.com/Zulko/moviepy/stargazers)  
     Popular Python library for programmatic video editing, cuts, text overlays, compositing, title rendering, and automated batch video processing.
 
-20. **[Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)** [![GitHub stars](https://img.shields.io/github/stars/SubtitleEdit/subtitleedit?style=social&color=white)](https://github.com/SubtitleEdit/subtitleedit/stargazers)  
+20. **[Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)** [![GitHub_Stars](https://img.shields.io/github/stars/SubtitleEdit/subtitleedit?style=social&color=white)](https://github.com/SubtitleEdit/subtitleedit/stargazers)  
     Feature-complete subtitle workshop supporting audio waveform visualization, offline Whisper transcription, automatic sync, machine translation, and 300+ subtitle format conversions.
 
-21. **[ffmpeg-python](https://github.com/kkroening/ffmpeg-python)** [![GitHub stars](https://img.shields.io/github/stars/kkroening/ffmpeg-python?style=social&color=white)](https://github.com/kkroening/ffmpeg-python/stargazers)  
+21. **[ffmpeg-python](https://github.com/kkroening/ffmpeg-python)** [![GitHub_Stars](https://img.shields.io/github/stars/kkroening/ffmpeg-python?style=social&color=white)](https://github.com/kkroening/ffmpeg-python/stargazers)  
     Idiomatic Python wrapper for FFmpeg with complex filter-graph support, allowing fluent chaining of video scale, overlay, concatenate, and audio filters.
 
-22. **[Olive Video Editor](https://github.com/olive-editor/olive)** [![GitHub stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)  
+22. **[Olive Video Editor](https://github.com/olive-editor/olive)** [![GitHub_Stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)  
     Modern open-source non-linear video editor engineered with node-based compositing, OpenColorIO color management, and real-time disk cache architecture.
 
-23. **[fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)** [![GitHub stars](https://img.shields.io/github/stars/fluent-ffmpeg/node-fluent-ffmpeg?style=social&color=white)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/stargazers)  
+23. **[fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent-ffmpeg/node-fluent-ffmpeg?style=social&color=white)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/stargazers)  
     Fluent Node.js interface for FFmpeg, simplifying asynchronous command generation, real-time progress callbacks, and video post-production pipelines.
 
-24. **[ShortGPT](https://github.com/RayVentura/ShortGPT)** [![GitHub stars](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social&color=white)](https://github.com/RayVentura/ShortGPT/stargazers)  
+24. **[ShortGPT](https://github.com/RayVentura/ShortGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social&color=white)](https://github.com/RayVentura/ShortGPT/stargazers)  
     Experimental open-source AI engine for automating YouTube Shorts and TikTok video production, handling asset sourcing, voiceovers, background audio, and caption placement.
 
-25. **[OpenShot Video Editor](https://github.com/OpenShot/openshot-qt)** [![GitHub stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt/stargazers)  
+25. **[OpenShot Video Editor](https://github.com/OpenShot/openshot-qt)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt/stargazers)  
     Easy-to-use desktop NLE created with Python, Qt, and `libopenshot`, offering 3D animated titles, curve-based keyframe animations, and drag-and-drop timeline tracks.
 
-26. **[Kdenlive](https://github.com/KDE/kdenlive)** [![GitHub stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)  
+26. **[Kdenlive](https://github.com/KDE/kdenlive)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)  
     KDE's flagship open-source video editor equipped with multi-track editing, proxy clips, color grading wheels, Whisper speech-to-text subtitling, and keyframe-controllable effects.
 
-27. **[Auto-Editor](https://github.com/WyattBlue/auto-editor)** [![GitHub stars](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=social&color=white)](https://github.com/WyattBlue/auto-editor/stargazers)  
+27. **[Auto-Editor](https://github.com/WyattBlue/auto-editor)** [![GitHub_Stars](https://img.shields.io/github/stars/WyattBlue/auto-editor?style=social&color=white)](https://github.com/WyattBlue/auto-editor/stargazers)  
     Automated command-line editor that analyzes audio/video loudness to cut out silences and pauses, exporting XML/EDL project timelines directly to Premiere Pro, DaVinci Resolve, or Final Cut.
 
-28. **[Natron](https://github.com/NatronGitHub/Natron)** [![GitHub stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers)  
+28. **[Natron](https://github.com/NatronGitHub/Natron)** [![GitHub_Stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers)  
     Node-based digital visual effects compositing software modeled after Foundry Nuke and Adobe After Effects, supporting OpenFX plugins, rotoscoping, keying, and tracking.
 
-29. **[Editly](https://github.com/mifi/editly)** [![GitHub stars](https://img.shields.io/github/stars/mifi/editly?style=social&color=white)](https://github.com/mifi/editly/stargazers)  
+29. **[Editly](https://github.com/mifi/editly)** [![GitHub_Stars](https://img.shields.io/github/stars/mifi/editly?style=social&color=white)](https://github.com/mifi/editly/stargazers)  
     Declarative Node.js CLI and programmatic video editing library for assembling clips, audio tracks, text titles, Ken Burns effects, and smooth transitions via JSON specifications.
 
-30. **[PySceneDetect](https://github.com/Breakthrough/PySceneDetect)** [![GitHub stars](https://img.shields.io/github/stars/Breakthrough/PySceneDetect?style=social&color=white)](https://github.com/Breakthrough/PySceneDetect/stargazers)  
+30. **[PySceneDetect](https://github.com/Breakthrough/PySceneDetect)** [![GitHub_Stars](https://img.shields.io/github/stars/Breakthrough/PySceneDetect?style=social&color=white)](https://github.com/Breakthrough/PySceneDetect/stargazers)  
     Open-source Python and OpenCV tool for automatic scene cut detection, extracting timestamps and keyframes to split video files into discrete shots for post-production editing.
 
-31. **[videogrep](https://github.com/antiboredom/videogrep)** [![GitHub stars](https://img.shields.io/github/stars/antiboredom/videogrep?style=social&color=white)](https://github.com/antiboredom/videogrep/stargazers)  
+31. **[videogrep](https://github.com/antiboredom/videogrep)** [![GitHub_Stars](https://img.shields.io/github/stars/antiboredom/videogrep?style=social&color=white)](https://github.com/antiboredom/videogrep/stargazers)  
     Python script that searches video subtitles and creates supercut edits based on spoken words, phrases, and linguistic patterns.
 
-32. **[Herk Edit Kit](https://github.com/nateherkai/herk-edit-kit)** [![GitHub stars](https://img.shields.io/github/stars/nateherkai/herk-edit-kit?style=social&color=white)](https://github.com/nateherkai/herk-edit-kit/stargazers)  
+32. **[Herk Edit Kit](https://github.com/nateherkai/herk-edit-kit)** [![GitHub_Stars](https://img.shields.io/github/stars/nateherkai/herk-edit-kit?style=social&color=white)](https://github.com/nateherkai/herk-edit-kit/stargazers)  
     Developer and creator toolkit designed for editing videos, Reels, and YouTube Shorts via Claude Code or Codex, featuring 15 post-production skills, transcript-driven cuts, and 400+ motion graphic cards.
 
-33. **[Flowframes](https://github.com/n00mkrad/flowframes)** [![GitHub stars](https://img.shields.io/github/stars/n00mkrad/flowframes?style=social&color=white)](https://github.com/n00mkrad/flowframes/stargazers)  
+33. **[Flowframes](https://github.com/n00mkrad/flowframes)** [![GitHub_Stars](https://img.shields.io/github/stars/n00mkrad/flowframes?style=social&color=white)](https://github.com/n00mkrad/flowframes/stargazers)  
     Windows desktop GUI for AI video frame interpolation utilizing RIFE (CUDA/NCNN) and DAIN to smoothly boost 24/30 FPS footage to 60/120+ FPS slow-motion.
 
-34. **[OmniClip](https://github.com/omni-media/omniclip)** [![GitHub stars](https://img.shields.io/github/stars/omni-media/omniclip?style=social&color=white)](https://github.com/omni-media/omniclip/stargazers)  
+34. **[OmniClip](https://github.com/omni-media/omniclip)** [![GitHub_Stars](https://img.shields.io/github/stars/omni-media/omniclip?style=social&color=white)](https://github.com/omni-media/omniclip/stargazers)  
     Lightweight web-based video editor running 100% locally inside the browser using WebCodecs and WebGL for zero-cloud client-side cutting and transitions.
 
-35. **[CCExtractor](https://github.com/CCExtractor/ccextractor)** [![GitHub stars](https://img.shields.io/github/stars/CCExtractor/ccextractor?style=social&color=white)](https://github.com/CCExtractor/ccextractor/stargazers)  
+35. **[CCExtractor](https://github.com/CCExtractor/ccextractor)** [![GitHub_Stars](https://img.shields.io/github/stars/CCExtractor/ccextractor?style=social&color=white)](https://github.com/CCExtractor/ccextractor/stargazers)  
     Fast open-source closed caption and subtitle extractor for live TV broadcasts, DVR streams, MP4, MKV, and DVD files into SRT, VTT, and raw text.
 
-36. **[ClipsAI](https://github.com/ClipsAI/clipsai)** [![GitHub stars](https://img.shields.io/github/stars/ClipsAI/clipsai?style=social&color=white)](https://github.com/ClipsAI/clipsai/stargazers)  
+36. **[ClipsAI](https://github.com/ClipsAI/clipsai)** [![GitHub_Stars](https://img.shields.io/github/stars/ClipsAI/clipsai?style=social&color=white)](https://github.com/ClipsAI/clipsai/stargazers)  
     Open-source Python library for repurposing long podcasts into vertical social clips, featuring automatic speech segmentation and intelligent aspect-ratio face-tracking cropping.
 
 ---
